@@ -1,0 +1,17 @@
+
+/* featured-area */
+#featured-area{height:305px;width:840px;margin:0 auto; position:relative; z-index:99;}
+.roundabout-holder{list-style:none;width:630px;height:275px;margin:0px auto;}
+.roundabout-moveable-item{font-size:12px!important;height:275px;width:375px;cursor:pointer; z-index:99;}
+.roundabout-moveable-item img{height:100%;width:100%;margin:0;}
+.roundabout-in-focus{cursor:auto;}
+.roundabout-holder span{display:none;}
+.roundabout a:active, .roundabout a:focus, .roundabout a:visited{outline:none;text-decoration:none;}
+.roundabout li{margin:0;}
+.roundabout-moveable-item{ border:1px solid #ddd; background:#FFF; border-bottom:0;}
+.roundabout-moveable-item p{ width:100%; height:40px; line-height:40px; font-size:16px; text-align:center; background:#FFF; border:1px solid #ddd; border-top:0; margin-top:-5px;}
+.p_prev,.p_next{ width:38px; height:74px; position:absolute; top:110px; z-index:9999;}
+.p_prev{ background:url(../../../images/p_prev.png) no-repeat; left:3px;}
+.p_next{ background:url(../../../images/p_next.png) no-repeat; right:8px;}
+
+
